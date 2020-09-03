@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paleta/static/css/main.6a379075.chunk.css",
+    "main.js": "/paleta/static/js/main.0e17cef5.chunk.js",
+    "main.js.map": "/paleta/static/js/main.0e17cef5.chunk.js.map",
+    "runtime-main.js": "/paleta/static/js/runtime-main.3f686f02.js",
+    "runtime-main.js.map": "/paleta/static/js/runtime-main.3f686f02.js.map",
+    "static/js/2.74bc818f.chunk.js": "/paleta/static/js/2.74bc818f.chunk.js",
+    "static/js/2.74bc818f.chunk.js.map": "/paleta/static/js/2.74bc818f.chunk.js.map",
+    "index.html": "/paleta/index.html",
+    "precache-manifest.5cd59cc8b1656dcbcdbf8d34a4fd1134.js": "/paleta/precache-manifest.5cd59cc8b1656dcbcdbf8d34a4fd1134.js",
+    "service-worker.js": "/paleta/service-worker.js",
+    "static/css/main.6a379075.chunk.css.map": "/paleta/static/css/main.6a379075.chunk.css.map",
+    "static/js/2.74bc818f.chunk.js.LICENSE.txt": "/paleta/static/js/2.74bc818f.chunk.js.LICENSE.txt",
+    "static/media/logo-paleta.png": "/paleta/static/media/logo-paleta.93d0d6f2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f686f02.js",
+    "static/js/2.74bc818f.chunk.js",
+    "static/css/main.6a379075.chunk.css",
+    "static/js/main.0e17cef5.chunk.js"
+  ]
+}
