@@ -6,7 +6,15 @@ class Api extends React.Component {
     };
   
     componentDidMount() {
-        fetch('https://www.colr.org/json/colors/random/65')
+        
+        var myHeaders = new Headers();
+
+        var myInit = { method: 'GET',
+               headers: myHeaders,
+               mode: 'no-cors',
+               cache: 'default' };
+        
+        fetch('https://www.colr.org/json/colors/random/65', myInit)
             .then(res => res.json())
             .then(res => {
                 const paleta = res.colors.map((item) => item.hex).filter( (item) => item) 
